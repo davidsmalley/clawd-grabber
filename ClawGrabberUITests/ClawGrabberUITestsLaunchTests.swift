@@ -1,6 +1,6 @@
 import XCTest
 
-final class ClawdGrabberUITestsLaunchTests: XCTestCase {
+final class ClawGrabberUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

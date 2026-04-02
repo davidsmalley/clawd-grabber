@@ -1,6 +1,6 @@
 import XCTest
 
-final class ClawdGrabberUITests: XCTestCase {
+final class ClawGrabberUITests: XCTestCase {
 
     override func setUpWithError() throws {
         continueAfterFailure = false

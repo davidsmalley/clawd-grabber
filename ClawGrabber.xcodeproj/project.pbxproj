@@ -16,38 +16,38 @@
 			containerPortal = 32314E102F7E74D300AC3059 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 32314E172F7E74D300AC3059;
-			remoteInfo = ClawdGrabber;
+			remoteInfo = ClawGrabber;
 		};
 		32314E322F7E74D500AC3059 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 32314E102F7E74D300AC3059 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 32314E172F7E74D300AC3059;
-			remoteInfo = ClawdGrabber;
+			remoteInfo = ClawGrabber;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		32314E182F7E74D300AC3059 /* ClawdGrabber.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ClawdGrabber.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		32314E272F7E74D500AC3059 /* ClawdGrabberTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ClawdGrabberTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		32314E312F7E74D500AC3059 /* ClawdGrabberUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ClawdGrabberUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		32314E182F7E74D300AC3059 /* ClawGrabber.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ClawGrabber.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		32314E272F7E74D500AC3059 /* ClawGrabberTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ClawGrabberTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		32314E312F7E74D500AC3059 /* ClawGrabberUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ClawGrabberUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3298F0462F7E9AE8004F2632 /* Local.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = Local.xcconfig; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		32314E1A2F7E74D300AC3059 /* ClawdGrabber */ = {
+		32314E1A2F7E74D300AC3059 /* ClawGrabber */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = ClawdGrabber;
+			path = ClawGrabber;
 			sourceTree = "<group>";
 		};
-		32314E2A2F7E74D500AC3059 /* ClawdGrabberTests */ = {
+		32314E2A2F7E74D500AC3059 /* ClawGrabberTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = ClawdGrabberTests;
+			path = ClawGrabberTests;
 			sourceTree = "<group>";
 		};
-		32314E342F7E74D500AC3059 /* ClawdGrabberUITests */ = {
+		32314E342F7E74D500AC3059 /* ClawGrabberUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = ClawdGrabberUITests;
+			path = ClawGrabberUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -80,9 +80,9 @@
 		32314E0F2F7E74D300AC3059 = {
 			isa = PBXGroup;
 			children = (
-				32314E1A2F7E74D300AC3059 /* ClawdGrabber */,
-				32314E2A2F7E74D500AC3059 /* ClawdGrabberTests */,
-				32314E342F7E74D500AC3059 /* ClawdGrabberUITests */,
+				32314E1A2F7E74D300AC3059 /* ClawGrabber */,
+				32314E2A2F7E74D500AC3059 /* ClawGrabberTests */,
+				32314E342F7E74D500AC3059 /* ClawGrabberUITests */,
 				32314E192F7E74D300AC3059 /* Products */,
 				3298F0462F7E9AE8004F2632 /* Local.xcconfig */,
 			);
@@ -91,9 +91,9 @@
 		32314E192F7E74D300AC3059 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				32314E182F7E74D300AC3059 /* ClawdGrabber.app */,
-				32314E272F7E74D500AC3059 /* ClawdGrabberTests.xctest */,
-				32314E312F7E74D500AC3059 /* ClawdGrabberUITests.xctest */,
+				32314E182F7E74D300AC3059 /* ClawGrabber.app */,
+				32314E272F7E74D500AC3059 /* ClawGrabberTests.xctest */,
+				32314E312F7E74D500AC3059 /* ClawGrabberUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -101,9 +101,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		32314E172F7E74D300AC3059 /* ClawdGrabber */ = {
+		32314E172F7E74D300AC3059 /* ClawGrabber */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 32314E3B2F7E74D500AC3059 /* Build configuration list for PBXNativeTarget "ClawdGrabber" */;
+			buildConfigurationList = 32314E3B2F7E74D500AC3059 /* Build configuration list for PBXNativeTarget "ClawGrabber" */;
 			buildPhases = (
 				32314E142F7E74D300AC3059 /* Sources */,
 				32314E152F7E74D300AC3059 /* Frameworks */,
@@ -114,18 +114,18 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				32314E1A2F7E74D300AC3059 /* ClawdGrabber */,
+				32314E1A2F7E74D300AC3059 /* ClawGrabber */,
 			);
-			name = ClawdGrabber;
+			name = ClawGrabber;
 			packageProductDependencies = (
 			);
-			productName = ClawdGrabber;
-			productReference = 32314E182F7E74D300AC3059 /* ClawdGrabber.app */;
+			productName = ClawGrabber;
+			productReference = 32314E182F7E74D300AC3059 /* ClawGrabber.app */;
 			productType = "com.apple.product-type.application";
 		};
-		32314E262F7E74D500AC3059 /* ClawdGrabberTests */ = {
+		32314E262F7E74D500AC3059 /* ClawGrabberTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 32314E3E2F7E74D500AC3059 /* Build configuration list for PBXNativeTarget "ClawdGrabberTests" */;
+			buildConfigurationList = 32314E3E2F7E74D500AC3059 /* Build configuration list for PBXNativeTarget "ClawGrabberTests" */;
 			buildPhases = (
 				32314E232F7E74D500AC3059 /* Sources */,
 				32314E242F7E74D500AC3059 /* Frameworks */,
@@ -137,18 +137,18 @@
 				32314E292F7E74D500AC3059 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				32314E2A2F7E74D500AC3059 /* ClawdGrabberTests */,
+				32314E2A2F7E74D500AC3059 /* ClawGrabberTests */,
 			);
-			name = ClawdGrabberTests;
+			name = ClawGrabberTests;
 			packageProductDependencies = (
 			);
-			productName = ClawdGrabberTests;
-			productReference = 32314E272F7E74D500AC3059 /* ClawdGrabberTests.xctest */;
+			productName = ClawGrabberTests;
+			productReference = 32314E272F7E74D500AC3059 /* ClawGrabberTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		32314E302F7E74D500AC3059 /* ClawdGrabberUITests */ = {
+		32314E302F7E74D500AC3059 /* ClawGrabberUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 32314E412F7E74D500AC3059 /* Build configuration list for PBXNativeTarget "ClawdGrabberUITests" */;
+			buildConfigurationList = 32314E412F7E74D500AC3059 /* Build configuration list for PBXNativeTarget "ClawGrabberUITests" */;
 			buildPhases = (
 				32314E2D2F7E74D500AC3059 /* Sources */,
 				32314E2E2F7E74D500AC3059 /* Frameworks */,
@@ -160,13 +160,13 @@
 				32314E332F7E74D500AC3059 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				32314E342F7E74D500AC3059 /* ClawdGrabberUITests */,
+				32314E342F7E74D500AC3059 /* ClawGrabberUITests */,
 			);
-			name = ClawdGrabberUITests;
+			name = ClawGrabberUITests;
 			packageProductDependencies = (
 			);
-			productName = ClawdGrabberUITests;
-			productReference = 32314E312F7E74D500AC3059 /* ClawdGrabberUITests.xctest */;
+			productName = ClawGrabberUITests;
+			productReference = 32314E312F7E74D500AC3059 /* ClawGrabberUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -192,7 +192,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 32314E132F7E74D300AC3059 /* Build configuration list for PBXProject "ClawdGrabber" */;
+			buildConfigurationList = 32314E132F7E74D300AC3059 /* Build configuration list for PBXProject "ClawGrabber" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -206,9 +206,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				32314E172F7E74D300AC3059 /* ClawdGrabber */,
-				32314E262F7E74D500AC3059 /* ClawdGrabberTests */,
-				32314E302F7E74D500AC3059 /* ClawdGrabberUITests */,
+				32314E172F7E74D300AC3059 /* ClawGrabber */,
+				32314E262F7E74D500AC3059 /* ClawGrabberTests */,
+				32314E302F7E74D500AC3059 /* ClawGrabberUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -265,12 +265,12 @@
 /* Begin PBXTargetDependency section */
 		32314E292F7E74D500AC3059 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 32314E172F7E74D300AC3059 /* ClawdGrabber */;
+			target = 32314E172F7E74D300AC3059 /* ClawGrabber */;
 			targetProxy = 32314E282F7E74D500AC3059 /* PBXContainerItemProxy */;
 		};
 		32314E332F7E74D500AC3059 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 32314E172F7E74D300AC3059 /* ClawdGrabber */;
+			target = 32314E172F7E74D300AC3059 /* ClawGrabber */;
 			targetProxy = 32314E322F7E74D500AC3059 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -419,7 +419,7 @@
 				);
 				MACOSX_DEPLOYMENT_TARGET = 13.5;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.example.ClawdGrabber;
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.ClawGrabber;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				REGISTER_APP_GROUPS = YES;
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
@@ -452,7 +452,7 @@
 				);
 				MACOSX_DEPLOYMENT_TARGET = 13.5;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.example.ClawdGrabber;
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.ClawGrabber;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				REGISTER_APP_GROUPS = YES;
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
@@ -474,14 +474,14 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.7;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.example.ClawdGrabberTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.ClawGrabberTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = NO;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ClawdGrabber.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/ClawdGrabber";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ClawGrabber.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/ClawGrabber";
 			};
 			name = Debug;
 		};
@@ -495,14 +495,14 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				MACOSX_DEPLOYMENT_TARGET = 15.7;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.example.ClawdGrabberTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.ClawGrabberTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = NO;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ClawdGrabber.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/ClawdGrabber";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/ClawGrabber.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/ClawGrabber";
 			};
 			name = Release;
 		};
@@ -514,14 +514,14 @@
 				DEVELOPMENT_TEAM = "";
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.example.ClawdGrabberUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.ClawGrabberUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = NO;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
-				TEST_TARGET_NAME = ClawdGrabber;
+				TEST_TARGET_NAME = ClawGrabber;
 			};
 			name = Debug;
 		};
@@ -533,21 +533,21 @@
 				DEVELOPMENT_TEAM = "";
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.example.ClawdGrabberUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.example.ClawGrabberUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRING_CATALOG_GENERATE_SYMBOLS = NO;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
 				SWIFT_VERSION = 5.0;
-				TEST_TARGET_NAME = ClawdGrabber;
+				TEST_TARGET_NAME = ClawGrabber;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		32314E132F7E74D300AC3059 /* Build configuration list for PBXProject "ClawdGrabber" */ = {
+		32314E132F7E74D300AC3059 /* Build configuration list for PBXProject "ClawGrabber" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				32314E392F7E74D500AC3059 /* Debug */,
@@ -556,7 +556,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		32314E3B2F7E74D500AC3059 /* Build configuration list for PBXNativeTarget "ClawdGrabber" */ = {
+		32314E3B2F7E74D500AC3059 /* Build configuration list for PBXNativeTarget "ClawGrabber" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				32314E3C2F7E74D500AC3059 /* Debug */,
@@ -565,7 +565,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		32314E3E2F7E74D500AC3059 /* Build configuration list for PBXNativeTarget "ClawdGrabberTests" */ = {
+		32314E3E2F7E74D500AC3059 /* Build configuration list for PBXNativeTarget "ClawGrabberTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				32314E3F2F7E74D500AC3059 /* Debug */,
@@ -574,7 +574,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		32314E412F7E74D500AC3059 /* Build configuration list for PBXNativeTarget "ClawdGrabberUITests" */ = {
+		32314E412F7E74D500AC3059 /* Build configuration list for PBXNativeTarget "ClawGrabberUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				32314E422F7E74D500AC3059 /* Debug */,

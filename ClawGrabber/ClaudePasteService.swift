@@ -34,7 +34,7 @@ class ClaudePasteService {
             withBundleIdentifier: claudeBundleID)
         guard let claude = apps.first else {
             showNotification(
-                title: "ClawdGrabber",
+                title: "ClawGrabber",
                 body: "Claude Desktop is not running.")
             return false
         }

@@ -1,6 +1,6 @@
 import Foundation
 import Testing
-@testable import ClawdGrabber
+@testable import ClawGrabber
 
 struct AppStateTests {
 

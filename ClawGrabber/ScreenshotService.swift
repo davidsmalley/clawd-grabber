@@ -3,7 +3,7 @@ import Foundation
 class ScreenshotService {
     func captureRegion(completion: @escaping (URL?) -> Void) {
         let tempURL = FileManager.default.temporaryDirectory
-            .appendingPathComponent("clawdgrab_\(UUID().uuidString).png")
+            .appendingPathComponent("clawgrab_\(UUID().uuidString).png")
 
         let process = Process()
         process.executableURL = URL(fileURLWithPath: "/usr/sbin/screencapture")
